@@ -1,0 +1,17 @@
+.about-image{
+    margin-left: 7rem;
+}
+
+.about-image img {
+    width: 500px;
+    height: 300px;
+}
+
+.container h2{
+    margin-bottom: 1.5rem;
+    border-bottom: 3px solid #ff2483;
+}
+
+.container p{
+    font-size: 1.4rem;
+}
